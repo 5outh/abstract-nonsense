@@ -23,7 +23,7 @@ a:visited {
     color: slategray;
 }
 
-ul {
+.listing {
     list-style:none; 
     line-height: 1.6em;
 }

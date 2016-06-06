@@ -7,10 +7,10 @@ tags: haskell, category-theory
 ## Overview
 
 This is the first post in a series that I hope to expand over time regarding
-notions in Category theory and how they manifest in the Haskell programming
+notions in category theory and how they manifest in the haskell programming
 language.
 
-Category theory is extremely general; It's language is useful
+Category theory is extremely general; it's language is useful
 in recognizing structure and unifying mathematical
 concepts that don't seem related at first glance. It's a wonderful tool for
 gaining intuition about wildly different things in one fell swoop, which makes
@@ -33,7 +33,7 @@ A category is a type of mathematical object. For the uninitiated, one of the
 simplest examples of a mathematical object is the `Set`; a collection of
 "things" that doesn't contain duplicates. Examples are:
 
-- The set of Natural numbers ($\{0..\infty\}$)
+- The set of Natural numbers $\{0..\infty\}$
 - The set of all humans living in Europe
 - The set of all board games designed in the 1980s.
 
@@ -53,12 +53,12 @@ The (semi)formal* definition of a category is as follows:
 
 A category C consists of two things:
 
-- A collection $C_0$ of _objects_
+- A collection $C_0$ of _objects_.
 - A collection $C_1$ of _morphisms_, with a *source* and *target* in $C_0$. We'll
   consider an element of this set to look like `f : a -> b`, where `a` is the
   source, and `b` is the target.
-- A special morphism in $C_1$ called $id$, which follows the left and right unit laws listed
-  below. 
+- A special morphism in $id : C_0 \rightarrow C_1$, which assigns to each object $x
+  \in C_0$ a morphism $id_x$ following the unit laws listed below.
 - A composition operator $\circ$, which assigns, to any pair of morphisms `f : a
   -> b` and `g : b -> c`, a composite morphism $g \circ f$ `: a -> c`.
 
@@ -122,9 +122,8 @@ More on that [on haskell wiki](https://wiki.haskell.org/Hask).
 
 ## The category (in haskell)
 
-So how do we encode categories in haskell? We typically use
-typeclasses to encode common functionality between various structures, which is
-exactly what we will do here.
+We typically use typeclasses to encode common functionality between various structures, which is
+exactly what we will do to encode category-theoretical categories in Haskell.
 
 ```haskell
 class Category cat where
@@ -147,17 +146,18 @@ instance Category (->) where
 ```
 
 This instance encodes **Hask**. Another common `Category` instance we encounter often as haskell
-programmers daily is the one for `Kleisli` arrows:
+programmers daily is the one for `Kleisli` arrows, which are the kinds of things
+you'll see quite a bit when writing monadic code:
 
 ```haskell
 newtype Kleisli m a b = Kleisli { runKleisli :: a -> m b }
 
-instance Monad m => Kleisli m where
-  id :: Kleisli m a b 
+instance Monad m => Category (Kleisli m) where
+  id :: Kleisli m a a 
   id = Kleisli return
 
   (.) :: Kleisli m b c -> Kleisli m a b -> Kleisli m a c
-  (Kleisli f . Kleisli g) = Kleisli $ \x -> (f <=< g) x
+  (Kleisli f) . (Kleisli g) = Kleisli $ \x -> (f <=< g) x
 ```
 
 Recall that:
@@ -169,7 +169,8 @@ return :: Monad m => a -> m a
 
 and it might be easier to see where that instance comes from. I won't 
 prove that these two instances follow the category laws here; the important
-thing for our purposes is that our instances follow the pattern.
+thing for our purposes is that our instances follow the pattern. Proving that
+this instance follows the category laws through equational reasoning is a good exercise, though.
 
 At this point, it may feel like there are some holes. In the
 mathematical interpretation, we're constructing categories by explicitly
@@ -218,10 +219,11 @@ examples.)
 It is possible to encode a category in haskell, but it doesn't look exactly the
 same as laying out its definition on paper in a mathematical setting. In particular:
 
-- A category $C$ is defined in haskell by providing the type of morphisms in
+- A category $C$ is defined in haskell by providing the type (structure) of morphisms in
   $C$, instead of explicitly stating its objects and morphisms.
-- Objects of all categories defined in haskell are types. In the whole world of
+- Objects of all categories defined in haskell are types expressible by the
+  haskell type system. In the whole world of
   mathematics, objects can be much broader.
-- $id$ and $\circ$ are provided for all Category instances, and must typecheck,
-  which helps us find law-abiding implementations.
+- Typechecking implementations of $id$ and $\circ$ must be provided for all `Category` instances,
+  which guides us towards law-abiding implementations.
 
