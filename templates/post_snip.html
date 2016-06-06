@@ -1,0 +1,8 @@
+<ul class="blog_list">
+    $for(posts)$
+    	<li>
+	    	$partial("templates/post.html")$
+	    	<a class="disqus_link" href="$url$#disqus_thread"></a>
+    	</li>
+    $endfor$
+</ul>
