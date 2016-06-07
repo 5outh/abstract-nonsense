@@ -10,44 +10,47 @@ This is the first post in a series that I hope to expand over time regarding
 notions in category theory and how they manifest in the haskell programming
 language.
 
-Category theory is extremely general; it's language is useful
+Category theory is extremely general; its language is useful
 in recognizing structure and unifying mathematical
 concepts that don't seem related at first glance. It's a wonderful tool for
 gaining intuition about wildly different things in one fell swoop, which makes
 it a lot of fun to explore.
 
 On the other hand, haskell is an increasingly-widely-used, purely functional
-programming language based on category theory. A lot of the bizarre-sounding words
-haskellers use on a daily basis are rooted in category theory (or other branches of
+programming language with some obvious roots in category theory. A lot of the bizarre-sounding words
+haskellers use on a daily basis are derived from category theory (or other branches of
 mathematics that category theory generalizes). However, mapping from category
-theory to Haskell is sometimes nontrivial. 
+theory to Haskell is sometimes nontrivial, and it can be hard to see the connection. 
 
 I think that learning haskell should be a tool for understanding
-category theory and vice versa. I hope to shed some light on the explicit
-mappings between category theoretical concepts and their haskell counterparts in
-this series.
+category theory and vice versa. This post, and possibly other future posts, will
+hopefully shed some light on the explicit translations between category theory
+language and haskell. This is not necessarily intended to be an introduction to
+category theory or haskell, and I don't want to be too pedantic about
+definitions. however, I hope to incite an intuitive understanding about 
+the basics of category theory and its translation to haskell.
 
 ## The category (intuitively)
 
 A category is a type of mathematical object. For the uninitiated, one of the
-simplest examples of a mathematical object is the `Set`; a collection of
+simplest examples of a mathematical object is the set; a collection of
 "things" that doesn't contain duplicates. Examples are:
 
-- The set of Natural numbers $\{0..\infty\}$
+- The set of natural numbers $\{0..\infty\}$
 - The set of all humans living in Europe
-- The set of all board games designed in the 1980s.
+- The set of all board games designed in the 1980s
 
-Sets have very little structure, so studying how they interact isn't very interesting.
-Many traditional mathematical structures add structure _on top of_ sets in order to find more interesting insights.
+Sets have a very general structure, so many traditional mathematical objects add structure
+_on top of_ sets in order to find more interesting insights.
 
-A category* is one of these abstractions. Intuitively, a category encodes a
-structure containing a bunch of "things" and ways to move between those things.
+A category* is one of these objects. Intuitively, a category is a
+structure containing a bunch of "things" along with a way to move between those things.
 
 <small>
 \* Technically, _small_ category.
 </small>
 
-## The Category (In Theory)
+## The category (in theory)
 
 The (semi)formal* definition of a category is as follows:
 
@@ -55,12 +58,13 @@ A category C consists of two things:
 
 - A collection $C_0$ of _objects_.
 - A collection $C_1$ of _morphisms_, with a *source* and *target* in $C_0$. We'll
-  consider an element of this set to look like `f : a -> b`, where `a` is the
-  source, and `b` is the target.
+  consider an element of this set to look like `f : a -> b`, where `a` is called the
+  *source* of the morphism, and `b` is called its *target*.
 - A special morphism in $id : C_0 \rightarrow C_1$, which assigns to each object $x
   \in C_0$ a morphism $id_x$ following the unit laws listed below.
 - A composition operator $\circ$, which assigns, to any pair of morphisms `f : a
-  -> b` and `g : b -> c`, a composite morphism $g \circ f$ `: a -> c`.
+  -> b` and `g : b -> c`, a composite morphism $g \circ f$ `: a -> c` (Note that
+  the source of `g` is the target of `f`).
 
 The following are also necessarily true of a category:
 
@@ -70,25 +74,24 @@ The following are also necessarily true of a category:
   \circ id_x$ for all morphisms $s$ in $C_0$.
 
 Intuitively, $id$ maps each object back to itself. However, when the structure
-of a category's morphisms doesn't look like a _pure function_, this definition
-is not sufficient. Neither the structure of objects, nor the structure of morphisms,
+of a category's morphisms doesn't look like a pure function, this definition
+is not exact. Neither the structure of objects, nor the structure of morphisms,
 is static across all categories. Hence we cannot say exactly what $id$ or
 $\circ$ _does_; we can only say how they should behave when they appear
-together in a mathematical expression.
+in a mathematical expression using a certain category.
 
 <small>
 \* Slightly handwavy, but formal enough to get the point across for our purposes!
   For two _full_ definitions, see [nlab's page on categories](https://ncatlab.org/nlab/show/category#definitions).
 </small>
 
-
 Here's an example:
 
 **Set** is the category consisting of Sets as objects and functions between
 those sets as morphisms. Two objects in this category are the set of Natural
 numbers $\mathbb{N}$ and the set of Boolean values $Bool = \{True, False\}$.
-The function `odd : N -> Bool` which takes each natural number to its truth
-value of whether it is odd or not a morphism in this Category.
+The function $odd : \mathbb{N} \rightarrow Bool$ which takes each natural number to its truth
+value of whether it is odd or not a morphism in this category.
 
 Some other examples of categories are:
 
@@ -105,7 +108,7 @@ Some other examples of categories are:
 
 ## Hask
 
-Before we talk about _encoding_ categories in Haskell, I'd like to briefly talk about
+Before we talk about encoding categories in Haskell, I'd like to briefly talk about
 Haskell's very own category, **Hask**.
 
 **Hask** is the category in which:
@@ -118,12 +121,15 @@ composition with `(.) :: (b -> c) -> (a -> b) -> (a -> c)` is morphism
 composition in **Hask**. 
 
 **Hask** is a legitimate category, but we have to be specific about what `undefined` means.
-More on that [on haskell wiki](https://wiki.haskell.org/Hask).
+More on that [on haskell wiki](https://wiki.haskell.org/Hask). Note that **Hask** is a category whether
+or not we're speaking about it internally or externally; mentions of **Hask**
+are not required to appear in the context of haskell, which is interesting!
 
 ## The category (in haskell)
 
-We typically use typeclasses to encode common functionality between various structures, which is
-exactly what we will do to encode category-theoretical categories in Haskell.
+In haskell, we typically use typeclasses to encode common functionality between various structures, which is
+exactly what we will do to encode category-theoretical categories. Here is the
+typeclass definition for `Category`:
 
 ```haskell
 class Category cat where
@@ -131,9 +137,10 @@ class Category cat where
   (.) : cat b c -> cat a b -> cat a c 
 ```
 
-We'll talk more about this in a minute. First, let's look at the simplest
-example of this category, the instance for `(->)` (You can turn on the
-`InstanceSigs` GHC extension to get these to compile):
+We'll talk more about this in a minute. First, let's look at the most
+straight-forward
+example of a `Category`, the instance for `(->)` (Turn on the
+`InstanceSigs` GHC extension to get this to compile):
 
 ```haskell
 instance Category (->) where
@@ -145,9 +152,8 @@ instance Category (->) where
   (f . g) x = f (g x) 
 ```
 
-This instance encodes **Hask**. Another common `Category` instance we encounter often as haskell
-programmers daily is the one for `Kleisli` arrows, which are the kinds of things
-you'll see quite a bit when writing monadic code:
+This instance represents **Hask**. Another common `Category` instance we commonly encounter as haskell
+programmers is the one for `Kleisli` arrows, which we see quite a bit when writing monadic code:
 
 ```haskell
 newtype Kleisli m a b = Kleisli { runKleisli :: a -> m b }
@@ -164,23 +170,24 @@ Recall that:
 
 ```haskell
 return :: Monad m => a -> m a 
+-- The Kleisli fish operator <=< comes from Control.Monad.
 (<=<) :: Monad m => (b -> m c) -> (a -> m b) -> (a -> m c)
 ```
 
-and it might be easier to see where that instance comes from. I won't 
+and it might be easier to see where that instance comes from. We won't 
 prove that these two instances follow the category laws here; the important
-thing for our purposes is that our instances follow the pattern. Proving that
-this instance follows the category laws through equational reasoning is a good exercise, though.
+thing for our purposes is that these instances follow the pattern. Proving that
+this instance follows the category laws through equational reasoning is a nice exercise, though.
 
 At this point, it may feel like there are some holes. In the
-mathematical interpretation, we're constructing categories by explicitly
-providing both _objects_ of a category and the structure of its _morphisms_;
-identity and composition come later. So, where's the connection?
+mathematical interpretation, we construct categories by explicitly
+providing both objects of a category and its morphisms. It's not totally obvious
+where those come up when representing categories in haskell. So, where's the connection?
 
 ## The connection
 
 Objects of a `Category` in haskell are types. The typeclass variable `cat`
-describes the structure of morphisms in our category. Specifically, the sources
+describes the type (see aside below) of morphisms in our category. Specifically, the sources
 and targets of our morphisms are hidden in the type declaration for the
 morphisms we're declaring a category instance for. In `(->)`, the source and
 target can be any haskell data type. For a morphism in `Kleisli`, however, the _source_ can be
