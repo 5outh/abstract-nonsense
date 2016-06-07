@@ -10,7 +10,7 @@ interesting these algorithms are to other people, but they have always
 been an interest of mine. I think they're neat because they illustrate
 that there can be several ways to tackle even the simplest of tasks
 (which, in my opinion, is one of the things that makes programming so
-fun).
+fun!).
 
 
 Since I'm always looking for new things to try, I've decided to take a

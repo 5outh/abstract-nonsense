@@ -233,4 +233,3 @@ same as laying out its definition on paper in a mathematical setting. In particu
   mathematics, objects can be much broader.
 - Typechecking implementations of $id$ and $\circ$ must be provided for all `Category` instances,
   which guides us towards law-abiding implementations.
-
