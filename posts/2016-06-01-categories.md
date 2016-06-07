@@ -69,7 +69,7 @@ A category C consists of two things:
 The following are also necessarily true of a category:
 
 - Composition is associative: $(h \circ g) \circ f = h \circ (g \circ f)$ for `f :
-  a -> b, g : b -> c, h : c -> d` in $C_0$.
+  c -> d, g : b -> c, h : a -> b` in $C_0$.
 - Composition satisfies the left and right unit laws: $id_y \circ f = f = f
   \circ id_x$ for all morphisms $s$ in $C_0$.
 
