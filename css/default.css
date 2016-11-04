@@ -9,7 +9,7 @@
 body {
     padding-left: 30px;
     padding-right:30px;
-    font: 1.3em "Open Sans", sans-serif;
+    font: 1.1em "Open Sans", sans-serif;
     line-height: 1.6em;
     max-width: 1000px;
 }
@@ -52,4 +52,10 @@ li > a:hover {
     text-transform: uppercase;
     font-size: 0.6em;
     line-height: 1.3em;
+}
+
+.center-block {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
