@@ -11,14 +11,16 @@ import qualified Data.Text as T
 import qualified Data.Text.IO as T
 
 main = do
-    mapM_ (T.putStrLn . interp 3)
+    mapM_ (T.putStrLn . interp 9)
         [
 
-                "/images/italy/day3/IMG_1402.jpg"
-                ,"/images/italy/day3/IMG_1404.jpg"
-                ,"/images/italy/day3/IMG_1406.jpg"
-                ,"/images/italy/day3/IMG_1413.jpg"
-                ,"/images/italy/day3/IMG_1414.jpg"
+            "/images/italy/day9/IMG_1670.jpg"
+            ,"/images/italy/day9/IMG_1671.jpg"
+            ,"/images/italy/day9/IMG_1673.jpg"
+            ,"/images/italy/day9/IMG_1674.jpg"
+            ,"/images/italy/day9/IMG_1675.jpg"
+            ,"/images/italy/day9/IMG_1683.jpg"
+            ,"/images/italy/day9/IMG_1684.jpg"
         ]
 
 interp :: Int -> Text -> Text
