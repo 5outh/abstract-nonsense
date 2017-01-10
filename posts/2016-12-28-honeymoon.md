@@ -125,6 +125,10 @@ bus we were looking for. It all worked out, but there were thousands of people i
 tour of the grounds at [Villa Agape](http://www.villaagape.it/) and crashed for a little while. We had booked a wine tour for that night, though, so we couldn't relax for too long!
 We were also starving after traveling with no lunch and were desperate to eat. So, we had our hotel's shuttle drive us into Florence and we found a place to eat (hot pots with dumplings for a little variety; not that good!) and then made our way to Ponte Vecchio afterwards. Ponte Vecchio is the oldest bridge in Florence, and the meetup point for the start of our wine tour. Turns out, we were the only ones who booked the tour, so we got a surprise private tour of the city! We got some little wine glasses to carry around town and were shown some interesting landmarks (mostly little historic things about the city). As for wine, we tasted 5 kinds and ate some crostini. Amanda was still queasy about drinking white wine, but I enjoyed all of it! The most interesting story was the one about the "black rooster" emblem on Chianti wine bottles. We ended the tour at the duomo - a huge, beautiful, green and white church that took 150 years to complete! Then we got picked up by our hotel shuttle and crashed hard.
 
+<video id="gondolas" width="640" preload controls>
+  <source src="/images/italy/day5/gondola.mov" />
+</video>
+
 <a data-lightbox="day-5" href="/images/italy/day5/IMG_1448.jpg" data-title=""><img src="/images/italy/day5/IMG_1448.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-5" href="/images/italy/day5/IMG_1472.jpg" data-title=""><img src="/images/italy/day5/IMG_1472.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-5" href="/images/italy/day5/IMG_1475.jpg" data-title=""><img src="/images/italy/day5/IMG_1475.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
