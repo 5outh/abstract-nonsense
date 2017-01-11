@@ -63,26 +63,26 @@ separate styles of column, because the floors were built in different eras. Visu
 are also told on the columns beneath Doge's Palace (the dwelling place of the historic ruler of
 Venice) - very cool. We saw a carving story of a couple meeting, courting, marrying, conceiving a child, hugging their child, finding out the child is sick, and then burying their child...Poor little statue family :(  After the audio tour, we went into Doge's Palace, which has been turned into a museum. Every ceiling is painted beautifully; it's incredible. The transition from the palace to the jails (over the Bridge of Sighs) is a surreal experience. It's a weird couple of steps from gilded halls to drab, thick stone walls and plain prison cells. When we were done, we walked around town a little and found a place to eat. I had seafood risotto (with lots of seafood I'd never seen before!) and Amanda had some salmon pasta. Both were delicious. We took an afternoon break and waited for a vegetarian place to open for dinner. We wandered around for an hour and a half through the rainy alleyways, dodging beggar ladies and getting chased by a man who wanted to sell us a rose. It was really dark and creepy, and the restaurant was hard to find. When we finally found it and then waited for them to open, they were completely booked! Huge bummer, but we went to a place called Tuttinpietti instead for some pasta, which we ate in our room. It was great anyway, so whatever. Afterwards, we set back out for a gelato place called SuSo, determined to mark off a win for the night. We got super lost, and by the time we found it, it had just closed! Agh! We went back to our rooms, tired and gelato-less, ate some chocolate raisins that we had brought on the plane for dessert and went to bed. Oh well! Dessert before dinner tomorrow! Eventually we’ll figure out this meal thing...
 
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1327.jpg" data-title=""><img src="/images/italy/day2/IMG_1327.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1327.jpg" data-title="Saint Mark's Cathedral"><img src="/images/italy/day2/IMG_1327.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1330.jpg" data-title=""><img src="/images/italy/day2/IMG_1330.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1332.jpg" data-title=""><img src="/images/italy/day2/IMG_1332.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1332.jpg" data-title="The Watchtower"><img src="/images/italy/day2/IMG_1332.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1336.jpg" data-title=""><img src="/images/italy/day2/IMG_1336.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1338.jpg" data-title=""><img src="/images/italy/day2/IMG_1338.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1338.jpg" data-title="Amanda's appropriate reaction to the Bridge of Sighs"><img src="/images/italy/day2/IMG_1338.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1340.jpg" data-title=""><img src="/images/italy/day2/IMG_1340.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1343.jpg" data-title=""><img src="/images/italy/day2/IMG_1343.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1351.jpg" data-title=""><img src="/images/italy/day2/IMG_1351.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1343.jpg" data-title="Creepy"><img src="/images/italy/day2/IMG_1343.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1351.jpg" data-title="Ceilings in Doge's Palace"><img src="/images/italy/day2/IMG_1351.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1357.jpg" data-title=""><img src="/images/italy/day2/IMG_1357.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1358.jpg" data-title=""><img src="/images/italy/day2/IMG_1358.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1361.jpg" data-title=""><img src="/images/italy/day2/IMG_1361.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1358.jpg" data-title="More ceilings"><img src="/images/italy/day2/IMG_1358.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1361.jpg" data-title="Zweihanders!"><img src="/images/italy/day2/IMG_1361.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1364.jpg" data-title=""><img src="/images/italy/day2/IMG_1364.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1366.jpg" data-title=""><img src="/images/italy/day2/IMG_1366.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1367.jpg" data-title=""><img src="/images/italy/day2/IMG_1367.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1371.jpg" data-title=""><img src="/images/italy/day2/IMG_1371.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1366.jpg" data-title="A family tree"><img src="/images/italy/day2/IMG_1366.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1367.jpg" data-title="Walking through the Bridge of Sighs"><img src="/images/italy/day2/IMG_1367.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1371.jpg" data-title="Down into the prisons"><img src="/images/italy/day2/IMG_1371.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1372.jpg" data-title=""><img src="/images/italy/day2/IMG_1372.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1383.jpg" data-title=""><img src="/images/italy/day2/IMG_1383.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1388.jpg" data-title=""><img src="/images/italy/day2/IMG_1388.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1389.jpg" data-title=""><img src="/images/italy/day2/IMG_1389.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-2" href="/images/italy/day2/IMG_1393.jpg" data-title=""><img src="/images/italy/day2/IMG_1393.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1389.jpg" data-title="???"><img src="/images/italy/day2/IMG_1389.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-2" href="/images/italy/day2/IMG_1393.jpg" data-title="Cool hotel we randomly found while walking around at night"><img src="/images/italy/day2/IMG_1393.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1396.jpg" data-title=""><img src="/images/italy/day2/IMG_1396.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-2" href="/images/italy/day2/IMG_1376.jpg" data-title=""><img src="/images/italy/day2/IMG_1376.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
@@ -95,22 +95,22 @@ was there with us! Crazy! After the tour, we wandered around the Accademia distr
 
 <a data-lightbox="day-3" href="/images/italy/day3/IMG_1402.jpg" data-title=""><img src="/images/italy/day3/IMG_1402.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-3" href="/images/italy/day3/IMG_1406.jpg" data-title=""><img src="/images/italy/day3/IMG_1406.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-3" href="/images/italy/day3/IMG_1413.jpg" data-title=""><img src="/images/italy/day3/IMG_1413.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-3" href="/images/italy/day3/IMG_1413.jpg" data-title="Acqua Alta Libraria"><img src="/images/italy/day3/IMG_1413.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-3" href="/images/italy/day3/IMG_1414.jpg" data-title=""><img src="/images/italy/day3/IMG_1414.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-3" href="/images/italy/day3/IMG_1404.jpg" data-title=""><img src="/images/italy/day3/IMG_1404.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-3" href="/images/italy/day3/IMG_1404.jpg" data-title="View from 'the point'"><img src="/images/italy/day3/IMG_1404.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
 ## 12/15/2016 (Murano, Burano)
 
 We got a good night's rest last night and headed out to get on a boat to Burano island late in the morning. The walk was nice - the area near Fondamente Nove (the water bus station) was relaxed. We hopped on a water bus and passed a few islands - a walled city, and Murano, the glass blowing island. The travel time to Burano was pretty long (about 50 minutes) but we eventually made it to the island of lace and colorful houses! It was kind of like a very-tiny Venice with a small fraction of the population. We sought out the lace museum, which was a disappointment, but only 5 euros each, so whatever. It turns out that the history of lace is super boring! But there were old women from Burano making lace there, which was a fascinating process! We expected to spend more time there, so we had some downtime for a coffee (coffee in Italy means a single shot of espresso) at a local bar before our lunch reservation. We also walked around the island for a while, saw the leaning clock tower, and relaxed by the seaside. Lunch was intense. We went to a place called Gatto Nero and both had a portion of seafood spaghetti; it was the most involved meal I've ever eaten, with several shellfish and other seafood. It was super tasty. The second course was a plate of seafood fritto misto. Some of that was good and some of it wasn't. I liked this part a lot more than Amanda did. The best part of the plate was fried salted cod. We split a bottle of tasty white wine with this meal, too, then capped off the 2 hour long lunch with a shot of espresso. It was getting late in the day at this point, but we wanted to see Murano, so we got on the next water taxi and headed that way. We browsed a couple of shops here and picked up some glass creations. The glass here was stunning; I wish we'd been able to stay a bit longer, but it was getting late and dark. For the first time, we understood why dinner here is served so late- after that huge, long lunch, we were not expecting to be hungry until at least 8:00! When we got back to mainland Venice, we stopped by a shop for a hot chocolate, which is more like a shot of warm chocolate than the kind we’re used to. Something from the day ended up making Amanda sick that night, unfortunately. :( Her sickness was so rough, that she got actual whiplash from throwing up so hard. She keeps calling it “power puking”...gross.
 
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1419.jpg" data-title=""><img src="/images/italy/day4/IMG_1419.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1420.jpg" data-title=""><img src="/images/italy/day4/IMG_1420.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1419.jpg" data-title="Colorful Burano houses!"><img src="/images/italy/day4/IMG_1419.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1420.jpg" data-title="Cats!"><img src="/images/italy/day4/IMG_1420.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-4" href="/images/italy/day4/IMG_1421.jpg" data-title=""><img src="/images/italy/day4/IMG_1421.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1426.jpg" data-title=""><img src="/images/italy/day4/IMG_1426.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1426.jpg" data-title="Amanda with some guy"><img src="/images/italy/day4/IMG_1426.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-4" href="/images/italy/day4/IMG_1428.jpg" data-title=""><img src="/images/italy/day4/IMG_1428.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1430.jpg" data-title=""><img src="/images/italy/day4/IMG_1430.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1431.jpg" data-title=""><img src="/images/italy/day4/IMG_1431.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-4" href="/images/italy/day4/IMG_1432.jpg" data-title=""><img src="/images/italy/day4/IMG_1432.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1430.jpg" data-title="Our crazy seafood spaghetti"><img src="/images/italy/day4/IMG_1430.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1431.jpg" data-title="'Coffee is an art'"><img src="/images/italy/day4/IMG_1431.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-4" href="/images/italy/day4/IMG_1432.jpg" data-title="Huge glass sculpture in Murano"><img src="/images/italy/day4/IMG_1432.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
 ## 12/16/2016 (Venice)
 
@@ -129,14 +129,14 @@ We were also starving after traveling with no lunch and were desperate to eat. S
   <source src="/images/italy/day5/gondola.mov" />
 </video>
 
-<a data-lightbox="day-5" href="/images/italy/day5/IMG_1448.jpg" data-title=""><img src="/images/italy/day5/IMG_1448.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day5/IMG_1448.jpg" data-title="Bye Venice!"><img src="/images/italy/day5/IMG_1448.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-5" href="/images/italy/day5/IMG_1472.jpg" data-title=""><img src="/images/italy/day5/IMG_1472.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-5" href="/images/italy/day5/IMG_1475.jpg" data-title=""><img src="/images/italy/day5/IMG_1475.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-5" href="/images/italy/day6/0YTw7.jpeg" data-title=""><img src="/images/italy/day6/0YTw7.jpeg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-5" href="/images/italy/day6/IMG_1481.jpg" data-title=""><img src="/images/italy/day6/IMG_1481.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-5" href="/images/italy/day6/IMG_1483.jpg" data-title=""><img src="/images/italy/day6/IMG_1483.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-5" href="/images/italy/day6/IMG_1486.jpg" data-title=""><img src="/images/italy/day6/IMG_1486.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-5" href="/images/italy/day6/IMG_1488.jpg" data-title=""><img src="/images/italy/day6/IMG_1488.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day6/0YTw7.jpeg" data-title="New map, Florence this time!"><img src="/images/italy/day6/0YTw7.jpeg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day6/IMG_1481.jpg" data-title="Our bed in Villa Agape"><img src="/images/italy/day6/IMG_1481.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day6/IMG_1483.jpg" data-title="Hot pots "><img src="/images/italy/day6/IMG_1483.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day6/IMG_1486.jpg" data-title="Important statue on Ponte Vecchio?"><img src="/images/italy/day6/IMG_1486.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-5" href="/images/italy/day6/IMG_1488.jpg" data-title="View from Ponte Vecchio at night"><img src="/images/italy/day6/IMG_1488.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
  
 ### 12/18/2016 (Florence)
 
@@ -149,28 +149,28 @@ We still had half a day left before the shuttle was coming back, so we decided t
 a man feeding some ducks and pigeons in a pond, and a happy kid playing with the pigeons - a couple of nice, memorable moments. Along with the Boboli Gardens ticket, we got access to a costume museum, which we visited after exhausting ourselves in the gardens. The old clothing was neat, especially the clothes that the royal family (Cosimo I and Eleanora) had been buried in, although it was a bit morbid. Afterwards, we popped into a pastry shop for a cannoli - Amanda had been looking for a good one. We split it and it was really yummy! I wish we had gotten two. For dinner, Mandy was feeling a little homesick and found some American place called The Diner. It was weird to see a depiction of US culture in Italy - they had paintings of historical desegregation moments and fat people on the walls! I had some particularly odd pureed chicken soup, and Amanda ate a burger and fries. The burger wasn't bad! Not long after we ate, we got picked up and went to bed around 8 PM.
 This was one of the most exhausting days of my life. We walked a total of 10 miles, and boy were our legs sore!
 
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1498.jpg" data-title=""><img src="/images/italy/day7/IMG_1498.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1535.jpg" data-title=""><img src="/images/italy/day7/IMG_1535.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1498.jpg" data-title="Duomo"><img src="/images/italy/day7/IMG_1498.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1535.jpg" data-title="Art!"><img src="/images/italy/day7/IMG_1535.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1536.jpg" data-title=""><img src="/images/italy/day7/IMG_1536.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1544.jpg" data-title=""><img src="/images/italy/day7/IMG_1544.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1544.jpg" data-title="This man has no skin..."><img src="/images/italy/day7/IMG_1544.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1548.jpg" data-title=""><img src="/images/italy/day7/IMG_1548.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1551.jpg" data-title=""><img src="/images/italy/day7/IMG_1551.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1551.jpg" data-title="Hermaphrodite, cool sculpture"><img src="/images/italy/day7/IMG_1551.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1553.jpg" data-title=""><img src="/images/italy/day7/IMG_1553.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1555.jpg" data-title=""><img src="/images/italy/day7/IMG_1555.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1556.jpg" data-title=""><img src="/images/italy/day7/IMG_1556.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1564.jpg" data-title=""><img src="/images/italy/day7/IMG_1564.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1565.jpg" data-title=""><img src="/images/italy/day7/IMG_1565.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1565.jpg" data-title="Leo!"><img src="/images/italy/day7/IMG_1565.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1580.jpg" data-title=""><img src="/images/italy/day7/IMG_1580.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1582.jpg" data-title=""><img src="/images/italy/day7/IMG_1582.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1587.jpg" data-title=""><img src="/images/italy/day7/IMG_1587.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1588.jpg" data-title=""><img src="/images/italy/day7/IMG_1588.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1582.jpg" data-title="Pitti Palace is huge"><img src="/images/italy/day7/IMG_1582.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1587.jpg" data-title="Tired from the walking"><img src="/images/italy/day7/IMG_1587.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1588.jpg" data-title="Turtles are holdiing this up!"><img src="/images/italy/day7/IMG_1588.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1594.jpg" data-title=""><img src="/images/italy/day7/IMG_1594.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1598.jpg" data-title=""><img src="/images/italy/day7/IMG_1598.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1598.jpg" data-title="Nelson Bighetti"><img src="/images/italy/day7/IMG_1598.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1603.jpg" data-title=""><img src="/images/italy/day7/IMG_1603.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-7" href="/images/italy/day7/IMG_1610.jpg" data-title=""><img src="/images/italy/day7/IMG_1610.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1613.jpg" data-title=""><img src="/images/italy/day7/IMG_1613.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1615.jpg" data-title=""><img src="/images/italy/day7/IMG_1615.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-7" href="/images/italy/day7/IMG_1597.jpg" data-title=""><img src="/images/italy/day7/IMG_1597.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1613.jpg" data-title="My favorite shot from the whole trip. Beautiful view!"><img src="/images/italy/day7/IMG_1613.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1615.jpg" data-title="Old clothes"><img src="/images/italy/day7/IMG_1615.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-7" href="/images/italy/day7/IMG_1597.jpg" data-title="Bird man with his pigeons and ducks"><img src="/images/italy/day7/IMG_1597.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
 ### 12/19/2016 (Florence)
 
@@ -180,19 +180,19 @@ called Vestri. The family who owns this place controls every step of the chocola
 We had two hours before our shuttle was scheduled to pick us up, so we decided to check out the Museo Galilei before heading back to the hotel. This was a very interesting museum, containing lots of old scientific tools. One of the most impressive was a three dimensional "map of the universe" that took 5 years to complete. Lots of other hidden treasures in here as well. I'm glad we went; it was a nice break from art museums, but it was torture that we couldn’t play with the amazing tools and devices!
 Afterwards, we waited for our shuttle for 15 minutes before realizing...they weren't coming. We had to find a phone to use to call the hotel. We walked and walked, looking for pay phones, which were all BROKEN, or tourism offices, which were completely unhelpful! Eventually, we came across another hotel and asked the concierge (named Eliza - We’ll never forget her because it felt like she was saving our lives!!) to help us out. She got a hold of the shuttle and we were able to finally get picked up soon after. We were stranded for a minute, though, after an extremely long day! I was getting very cranky. We rested for a few hours before heading down to San Miniaio Square for dinner. We ate pizza with delicious Italian toppings like truffles and prosciutto. It was lovely. It's supposed to rain tomorrow but we're going to try to see David and finish our Christmas shopping. Other than that, we'll try to relax and get ready for the trip home. Amanda has been nocturnal since her night up with food poisoning, and her neck still can’t turn, so we will try visiting a pharmacy tomorrow.
 
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1626.jpg" data-title=""><img src="/images/italy/day8/IMG_1626.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1628.jpg" data-title=""><img src="/images/italy/day8/IMG_1628.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1631.jpg" data-title=""><img src="/images/italy/day8/IMG_1631.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1633.jpg" data-title=""><img src="/images/italy/day8/IMG_1633.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1634.jpg" data-title=""><img src="/images/italy/day8/IMG_1634.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1626.jpg" data-title="Real stuffed pigs playing poker??"><img src="/images/italy/day8/IMG_1626.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1628.jpg" data-title="Chocolate!"><img src="/images/italy/day8/IMG_1628.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1631.jpg" data-title="Wine!"><img src="/images/italy/day8/IMG_1631.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1633.jpg" data-title="More chocolate!"><img src="/images/italy/day8/IMG_1633.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1634.jpg" data-title="Dante Alighieri"><img src="/images/italy/day8/IMG_1634.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-8" href="/images/italy/day8/IMG_1635.jpg" data-title=""><img src="/images/italy/day8/IMG_1635.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1640.jpg" data-title=""><img src="/images/italy/day8/IMG_1640.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1640.jpg" data-title="Map of the universe"><img src="/images/italy/day8/IMG_1640.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-8" href="/images/italy/day8/IMG_1642.jpg" data-title=""><img src="/images/italy/day8/IMG_1642.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1646.jpg" data-title=""><img src="/images/italy/day8/IMG_1646.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1652.jpg" data-title=""><img src="/images/italy/day8/IMG_1652.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1646.jpg" data-title="A flat map of the world"><img src="/images/italy/day8/IMG_1646.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1652.jpg" data-title="That's Galileo's REAL, DEAD FINGER"><img src="/images/italy/day8/IMG_1652.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-8" href="/images/italy/day8/IMG_1655.jpg" data-title=""><img src="/images/italy/day8/IMG_1655.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1659.jpg" data-title=""><img src="/images/italy/day8/IMG_1659.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-8" href="/images/italy/day8/IMG_1666.jpg" data-title=""><img src="/images/italy/day8/IMG_1666.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1659.jpg" data-title="Things that can go wrong with childbirth :X"><img src="/images/italy/day8/IMG_1659.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-8" href="/images/italy/day8/IMG_1666.jpg" data-title="Za"><img src="/images/italy/day8/IMG_1666.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
 ## 12/20/2016 (Florence)
 
@@ -200,11 +200,11 @@ We did get some relaxation in today! Breakfast was good, but Amanda tried to get
 shop and got Amanda a new purse. This place was in the market square, so we picked up some veggie samosas from a hole in the wall Indian restaurant for lunch while we were in the area. The next stop was the huge central market for food-related gifts! Here, we got some cheese, oil, vinegar and coffee for our friends and family. We also caved and bought some traditional balsamic vinegar for ourselves. The last stop we made was at Massimo Ravinale for some silk; the man who helped us out was notably very helpful. After a quick last-minute cannoli (we can’t stop eating dessert in between every meal!), we went back to the hotel and packed some stuff up in preparation for tomorrow. And we binge watched Please Like Me (it's an Australian show on European Netflix here). It was a nice stretch of relaxation we'd been needing. At 7:30, we went to dinner at a place called Zeb, which was recommended by our food tour guide. We had two types of ravioli (pear-peccorino and yellow pumpkin with butter sauce), a peppery beef stew called peposo, a few glasses of wine and a salted chocolate torte. It was the best meal we had in Italy.
 A perfect way to end our trip to Florence! We leave in the morning (at 5:00 AM) and will really miss it here. The whole experience was unforgettable!
 
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1670.jpg" data-title=""><img src="/images/italy/day9/IMG_1670.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1670.jpg" data-title="David is pretty big"><img src="/images/italy/day9/IMG_1670.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 <a data-lightbox="day-9" href="/images/italy/day9/IMG_1671.jpg" data-title=""><img src="/images/italy/day9/IMG_1671.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1673.jpg" data-title=""><img src="/images/italy/day9/IMG_1673.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1674.jpg" data-title=""><img src="/images/italy/day9/IMG_1674.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1675.jpg" data-title=""><img src="/images/italy/day9/IMG_1675.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1683.jpg" data-title=""><img src="/images/italy/day9/IMG_1683.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
-<a data-lightbox="day-9" href="/images/italy/day9/IMG_1684.jpg" data-title=""><img src="/images/italy/day9/IMG_1684.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1673.jpg" data-title="Hm, what's this..."><img src="/images/italy/day9/IMG_1673.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1674.jpg" data-title="WHAT IS THAT LITTLE MAN DOING??"><img src="/images/italy/day9/IMG_1674.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1675.jpg" data-title="A bakery"><img src="/images/italy/day9/IMG_1675.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1683.jpg" data-title="Butternut squash ravioli"><img src="/images/italy/day9/IMG_1683.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
+<a data-lightbox="day-9" href="/images/italy/day9/IMG_1684.jpg" data-title="Peposo"><img src="/images/italy/day9/IMG_1684.jpg" style="height:200px; border-radius:4px;margin:5px"/></a>
 
