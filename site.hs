@@ -7,6 +7,10 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
+    match "images/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "images/**/*" $ do
         route   idRoute
         compile copyFileCompiler
@@ -17,7 +21,7 @@ main = hakyll $ do
 
     match "css/*" $ do
         route   idRoute
-        compile compressCssCompiler
+        compile copyFileCompiler
 
     match "js/**/*" $ do
         route idRoute

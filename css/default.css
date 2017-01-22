@@ -11,9 +11,13 @@ a.img.round-image {
     left: 0;
     width: 8px;
 }
+
 body {
     padding-left: 30px;
     padding-right:30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     font: 1.1em "Open Sans", sans-serif;
     line-height: 1.6em;
     max-width: 1000px;
