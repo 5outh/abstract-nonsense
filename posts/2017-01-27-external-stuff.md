@@ -14,6 +14,6 @@ I have a YouTube channel! I ran a series called "Breakfast Bash" here containing
 There's also a three hour Haskell workshop VOD put together by me and Matt Parsons. [You can see that here.](https://www.youtube.com/user/5outhSix)
 
 I gave a talk at the Developers of Athens Meetup Group about Lockhart's Lament and how it applies to
-programming. [The slides are here](/pdfs/LockhartsLament.pdf); I would love to give this talk again to a larger crowd.
+programming. [The slides are here](/pdfs/lockharts-lament.key); I would love to give this talk again to a larger crowd.
 
 That's all for now! Just some stuff I wanted to consolidate.
