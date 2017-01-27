@@ -1,5 +1,7 @@
 ---
 title: External Stuff 
+author: Benjamin Kovach
+tags: random, haskell 
 ---
 
 I realized this morning that I don't have links to any of this external-but-relevant stuff anywhere on the site,
