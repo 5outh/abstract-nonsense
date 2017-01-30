@@ -37,7 +37,7 @@ main = do
 ```
 
 This is pretty much the interface that most other languages start with. Better would be to separate out IO as much as possible
-from the inevitable rest of our program. We can do that by only using IO to grab up with an initial RNG.
+from the inevitable rest of our program. We can do that by confining IO usage to one operation: coming up with an initial RNG.
 
 ```haskell
 import System.Random
