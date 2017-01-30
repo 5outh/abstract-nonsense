@@ -20,7 +20,7 @@ Most programming languages will hide these details from you unless you need them
 Most of the time, you can just call `random()` and get a random number (typically between 0 and 1), using a seed value
 generated from some system variable that is always changing (current time in very small units is common).
 
-The simplest way to replicate this behavior in Haskell is by using the `System.Random` module, part of the `random` package.
+The simplest way to replicate this behavior in Haskell is by using the `System.Random` module, part of the [`random`](https://hackage.haskell.org/package/random-1.1/docs/System-Random.html) package.
 
 We can use `randomIO` and `randomRIO` to pull from a global RNG:
 
@@ -85,7 +85,7 @@ Now we can run more complex programs that employ random numbers. Note that `newS
 replaced with `mkStdGen :: Int -> StdGen` if you want to provide an integral seed instead of using the global
 `StdGen`.
 
-You can avoid some of this boilerplate and get a few more benefits by bringing in the `MonadRandom` package. Here's some
+You can avoid some of this boilerplate and get a few more benefits by bringing in the [`MonadRandom`](https://hackage.haskell.org/package/MonadRandom-0.5) package. Here's some
 code that accomplishes the same goal using `MonadRandom`:
 
 ```haskell
@@ -140,8 +140,8 @@ directions when this is run.
 the minimal amount of code to be useful but not overengineered.
 
 That said, sometimes you need more. First off, what about different distributions? The normal distribution is a pretty common necessity.
-`random-fu` really shines in this domain.
-You'll have to pull in the `rvar` package as well to run this next example, which will print out
+[`random-fu`](https://hackage.haskell.org/package/random-fu) really shines in this domain.
+You'll have to pull in the [`rvar`](https://hackage.haskell.org/package/rvar) package as well to run this next example, which will print out
 a random number pulled from a normal distribution with mean `100` and a standard deviation of `5`:
 
 ```haskell
@@ -164,7 +164,7 @@ Notice the `State` pattern from earlier. Also, there a bunch of common distribut
 
 One last thing I should mention is that we're not tied to `StdGen`, the RNG that ships with `random`. There are faster
 ones, like `PureMT`, which is based on the Mersenne Twister algorithm. It's an instance of `RandomGen` , so you can plug one
-of those in wherever you saw the generic type signature in this post. This is defined in `random-source`. For example, mixing
+of those in wherever you saw the generic type signature in this post. This is defined in [`random-source`](https://hackage.haskell.org/package/random-source). For example, mixing
 it back into `MonadRandom`:
 
 ```haskell
