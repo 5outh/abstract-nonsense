@@ -162,10 +162,15 @@ main = do
 
 Notice the `State` pattern from earlier. Also, there a bunch of common distributions that ship with `random-fu`.
 
-One last thing I should mention is that we're not tied to `StdGen`, the RNG that ships with `random`. There are faster
-ones, like `PureMT`, which is based on the Mersenne Twister algorithm. It's an instance of `RandomGen` , so you can plug one
-of those in wherever you saw the generic type signature in this post. This is defined in [`random-source`](https://hackage.haskell.org/package/random-source). For example, mixing
-it back into `MonadRandom`:
+One last thing I should mention is that we're not tied to `StdGen`, the RNG that ships with `random`.
+
+In fact, it does not have strong statistical properties, and should probably be avoided for many "real" applications (See [this reddit post](https://www.reddit.com/r/haskell/comments/3x15sm/why_is_the_first_random_value_produced_from_a/), and thank you to reddit user tom-md for the note!).
+
+There are faster and more stable ones
+ones, like `PureMT` from [`random-source`](https://hackage.haskell.org/package/random-source) or `TFGen` from [`tf-random`](https://hackage.haskell.org/package/tf-random).
+These are both instances of `RandomGen`, so you can plug either one
+of those in wherever you saw the generic type signature `RandomGen g => ...` in this post. For example, mixing `PureMT`
+back into `MonadRandom`:
 
 ```haskell
 import Control.Monad.Random
