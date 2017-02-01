@@ -65,12 +65,7 @@ import System.Random
 import Control.Monad.State
 
 dieRoll :: RandomGen g => State g Int
-dieRoll = do
-  gen <- get
-  let (result, newGen) = randomR (1, 6) gen
-  put newGen
-
-  pure result
+dieRoll = state (randomR (1, 6))
 
 twoDice :: RandomGen g => State g Int
 twoDice = (+) <$> dieRoll <*> dieRoll
@@ -85,7 +80,7 @@ Now we can run more complex programs that employ random numbers. Note that `newS
 replaced with `mkStdGen :: Int -> StdGen` if you want to provide an integral seed instead of using the global
 `StdGen`.
 
-You can avoid some of this boilerplate and get a few more benefits by bringing in the [`MonadRandom`](https://hackage.haskell.org/package/MonadRandom-0.5) package. Here's some
+You can avoid some of the state boilerplate and get a few more benefits by bringing in the [`MonadRandom`](https://hackage.haskell.org/package/MonadRandom-0.5) package. Here's some
 code that accomplishes the same goal using `MonadRandom`:
 
 ```haskell
@@ -104,7 +99,7 @@ main = do
   print (evalRand twoDice gen)
 ```
 
-Apart from providing a nice way to write terse randomness code, `MonadRandom` has a couple of killer utilities; namely, the minimalistic
+Apart from providing a nice way to write (slightly) terser randomness code, `MonadRandom` is more explicit about the domain we're working in, and ships with a couple of killer utilities; namely, the minimalistic
 sampling functions `uniform` and `fromList` (also `weighted` from `MonadRandom 0.5`). This program, for example, generates
 a list of 20 moves that might come up in a Dance Dance Revolution song:
 
