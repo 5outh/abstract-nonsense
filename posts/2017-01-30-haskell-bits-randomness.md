@@ -47,7 +47,7 @@ dieRoll = randomR (1, 6)
 
 main :: IO ()
 main = do
-  -- New generater, generated from the system RNG 
+  -- New generator, generated from the system RNG 
   gen <- newStdGen 
 
   let (result, newGen) = dieRoll gen
