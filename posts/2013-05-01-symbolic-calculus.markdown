@@ -101,7 +101,8 @@ simplify ((c :^: Const b) :^: Const a) = c :^: (Const (a*b))
 simplify (Const a :*: (Const b :*: expr)) = (Const $ a*b) :*: (simplify expr)
 simplify (Const a :*: expr :*: Const b) = (Const $ a*b) :*: (simplify expr)
 simplify (expr :*: Const a :*: Const b) = (Const $ a*b) :*: (simplify expr)
-simplify (Const a :*: (b :+: c))        = (Const a :*: (simplify b)) :+: (Const a :*: (simplify c))
+simplify (Const a :*: (b :+: c)) =
+  (Const a :*: (simplify b)) :+: (Const a :*: (simplify c))
 
 simplify (Const 0 :/: a        ) = Const 0
 simplify (Const a :/: Const 0)   = error "Division by zero!"
@@ -231,14 +232,15 @@ exponentiation. We already know the following laws for these from
 calculus: 
 
 
--------|---------------:  
-Differentiation of a constant | $\frac{d}{dx}k = 0$  
-Differentiation of a variable  | $\frac{d}{dx}x = 1$  
-Addition differentiation       | $\frac{d}{dx}\left(f(x) + g(x)\right) = \frac{d}{dx}f(x) +\frac{d}{dx}g(x)$  
-Power rule (/chain rule) | $\frac{d}{dx}f(x)^n = nf(x)^{n-1} \cdot \frac{d}{dx}f(x)$    
-Product rule  | $\frac{d}{dx}\left(f(x) \cdot g(x)\right) = \frac{d}{dx}f(x) \cdot g(x) + f(x) \cdot \frac{d}{dx}g(x)$  
-Quotient rule | $\frac{d}{dx}\frac{f(x)}{g(x)} = \frac{\frac{d}{dx}f(x) \cdot g(x)
-- \frac{d}{dx}g(x) \cdot f(x)}{g(x)^2}$ 
+|||
+| ----------------------------- |-------------------------------------:|
+Differentiation of a constant: | $$\frac{d}{dx}k = 0$$
+Differentiation of a variable:  | $$\frac{d}{dx}x = 1$$  
+Addition differentiation:       | $$\frac{d}{dx}\left(f(x) + g(x)\right) = \frac{d}{dx}f(x) +\frac{d}{dx}g(x)$$ 
+Power rule (/chain rule): | $$\frac{d}{dx}f(x)^n = nf(x)^{n-1} \cdot \frac{d}{dx}f(x)$$
+Product rule:  | $$\frac{d}{dx}\left(f(x) \cdot g(x)\right) = \frac{d}{dx}f(x) \cdot g(x) + f(x) \cdot \frac{d}{dx}g(x)$$ 
+Quotient rule: | $$\frac{d}{dx}\frac{f(x)}{g(x)} = \frac{\frac{d}{dx}f(x) \cdot g(x)
+- \frac{d}{dx}g(x) \cdot f(x)}{g(x)^2}$$
 
 As it turns out, we can almost directly represent this in Haskell. There should be no surprises
 here -- following along with the above rules, it is relatively easy to
