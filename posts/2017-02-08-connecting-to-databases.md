@@ -1,6 +1,6 @@
 ---
 author: Benjamin Kovach
-title: Haskell Bit #3: Connecting to Databases 
+title: Haskell Bits #3: Connecting to Databases 
 tags: haskell, haskell-bits
 ---
 
