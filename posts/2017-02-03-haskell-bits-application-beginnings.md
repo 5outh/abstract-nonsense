@@ -19,7 +19,7 @@ Here's the pattern:
 - Set up some program state that will be manipulated over the course of the program
 - Run the program! 
 
-The [`mtl`](https://hackage.haskell.org/package/mtl) package installed to run these examples.
+The [`mtl`](https://hackage.haskell.org/package/mtl) package will need to be installed to run these examples.
 
 In haskell, we have to be explicit about our the shape of our state and environment. A
 common way to represent a program with access to these basic needs, and not much else,

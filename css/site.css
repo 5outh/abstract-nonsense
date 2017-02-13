@@ -1,3 +1,20 @@
+table.checkered {
+    border-spacing:1rem;
+    border-collapse:collapse;
+}
+
+table.checkered tbody tr:nth-child(odd) {
+  background: #eee;
+}
+
+table.full-width {
+    width:100%;
+}
+
+thead.left tr th {
+    text-align:left;
+}
+
 code {
     font-size:15px;
 }
@@ -22,3 +39,4 @@ li>a:hover {
     text-decoration: underline;
     font-size:1em;
 }
+

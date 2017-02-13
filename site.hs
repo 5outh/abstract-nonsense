@@ -19,7 +19,7 @@ main = hakyll $ do
 
     match "css/*" $ do
         route   idRoute
-        compile copyFileCompiler
+        compile compressCssCompiler
 
     match "js/**/*" $ do
         route idRoute
