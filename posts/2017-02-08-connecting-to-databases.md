@@ -359,7 +359,7 @@ main =
             getBy (UniqueName "Cosmic Encounter") >>= printIO 
 ```
 
-(packages needed: `persistent`, `persistent-sqlite`, `mtl`, `monad-logger`)
+(packages needed: `persistent`, `persistent-template`, `persistent-sqlite`, `mtl`, `monad-logger`)
 
 A couple of things: 
 
@@ -395,7 +395,7 @@ of `main`, to:
 . withPostgresqlPool "host=localhost port=5432 connect_timeout=10" 3
 ```
 
-(packages needed: `persistent`, `persistent-postgresql`, `mtl`, `monad-logger`)
+(packages needed: `persistent`, `persistent-template`, `persistent-postgresql`, `mtl`, `monad-logger`)
 
 Everything else works the same!
 
@@ -421,7 +421,7 @@ and change the same line in `main` to:
 . withMySQLPool connectInfo 3
 ```
 
-(packages needed: `persistent`, `persistent-mysql`, `mtl`, `monad-logger`)
+(packages needed: `persistent`, `persistent-template`, `persistent-mysql`, `mtl`, `monad-logger`)
 
 Again, everything else works the same.
 
