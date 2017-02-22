@@ -8,7 +8,7 @@ It's likely that you'll have to deal with environment variables at some point. W
 robust environment handling with a really low overhead. We'll basically build a tiny library that will make dealing
 with environment variables and configuration a lot easier, then I'll show some example usage.
 
-TODO: Why not base System.Environment?
+TODO: Why not just System.Environment
 
 You'll need the following libraries to get run the code in this post: `transformers`, `split` and `safe`.
 
