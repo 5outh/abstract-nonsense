@@ -1,3 +1,32 @@
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 300px) {
+    body {
+        font-size: 12px;
+    }
+    div .sourceCode {
+        font-size: 11px;
+    }
+    code {
+        font-size: 12px;
+    }
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+    body {
+        font-size: 15px;
+    }
+    code {
+        font-size: 15px;
+    }
+}
+
+body {
+    overflow-x: hidden;
+}
+
 table.checkered {
     border-spacing:1rem;
     border-collapse:collapse;
@@ -15,15 +44,9 @@ thead.left tr th {
     text-align:left;
 }
 
-code {
-    font-size:15px;
-}
-
-div.sourceCode {
-    border: 3px solid ghostwhite;
-    padding-left: 6px;
+div .sourceCode {
     line-height: 1.5;
-
+    overflow: scroll;
 }
 
 body.p {
@@ -33,6 +56,8 @@ body.p {
 
 section {
     line-height: 2;
+    margin-right: 35px;
+    padding-right:20px;
 }
 
 li>a:hover {

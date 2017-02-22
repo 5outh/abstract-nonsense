@@ -21,6 +21,7 @@ body {
     font: 1.1em "Open Sans", sans-serif;
     line-height: 1.6em;
     max-width: 1000px;
+    width: 100%;
 }
 
 a {
