@@ -1,7 +1,7 @@
 /* Mobile first queries */
 
 /* Larger than mobile */
-@media (min-width: 300px) {
+@media (max-width: 750px) {
     body {
         font-size: 12px;
     }
