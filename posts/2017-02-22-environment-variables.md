@@ -5,10 +5,13 @@ tags: haskell, programming, haskell-bits
 ---
 
 It's likely that you'll have to deal with environment variables at some point. What I'll describe here is a kicking-off point for
-robust environment handling with a really low overhead. We'll basically build a tiny library that will make dealing
-with environment variables and configuration a lot easier, then I'll show some example usage.
+robust environment handling with little overhead. We'll build a tiny library
+you can drop into any application that will make dealing
+with environment variables for configuration a lot easier. Then I'll show some example usage.
 
-TODO: Why not just System.Environment
+This is all built on top of `System.Environment`, which isn't super nice to use in its raw form.
+In particular, there no implicit facilities for type coercion, 
+fallback values, or composability. We'll address those problems here.
 
 You'll need the following libraries to get run the code in this post: `transformers`, `split` and `safe`.
 
@@ -33,26 +36,36 @@ newtype Env a = Env{ unEnv :: MaybeT IO a }
         , MonadPlus
         )
 
-liftMaybe :: Maybe a -> Env a
-liftMaybe = Env . MaybeT . pure
-
 runEnv :: Env a -> IO (Maybe a)
 runEnv = runMaybeT . unEnv
 
+-- Lift a `Maybe` into the `Env` context.
+liftMaybe :: Maybe a -> Env a
+liftMaybe = Env . MaybeT . pure
+
+-- Get an environment variable in its
+-- raw form.
 getEnv :: String -> Env String
 getEnv key =
     liftIO (lookupEnv key) >>= liftMaybe
 
+-- Pull an environment variable from
+-- the environment, using a parsing
+-- function for conversion.
 env :: (String -> Maybe a) -> String -> Env a
 env f key = liftMaybe . f =<< getEnv key
 
-maybeEnv
+-- Pull an optional value from the
+-- environment.
+optional
     :: (String -> Maybe a)
     -> String
     -> Env (Maybe a)
-maybeEnv f key =
+optional f key =
     (f <$> getEnv key) <|> pure Nothing 
 
+-- Exploit the `Read` interface for a type
+-- to read an environment variable.
 readEnv :: Read a => String -> Env a
 readEnv = env readMay
 ```
@@ -60,11 +73,11 @@ readEnv = env readMay
 This code was adapted from 
 [a comment on reddit](https://www.reddit.com/r/haskell/comments/3bckm7/envy_an_environmentally_friendly_way_to_deal_with/csl3nqa/) (credit to u/Tekmo).
 
-I honestly think this mini-library is "good enough" for a lot of applications. One major drawback is that it doesn't
-report missing or improperly formatted environment variables.
-That functionality can be added in a relatively straightforward way, however, with a `MonadThrow` constraint.
-This is the simplest thing that does the job well,
-which is exactly what the Haskell Bits are supposed to be about, so we'll continue on this path. 
+I think this mini-library is "good enough" for a lot of applications. One major drawback is that it doesn't
+report missing or improperly formatted environment variables -
+ functionality can be added in a relatively straightforward way, however, with
+a `MonadThrow` constraint.
+This is the simplest thing that does the job well, though, so we'll run with it.
 
 For my example application, I want to be able to pull configuration information
 from a set of environment variables.
@@ -104,14 +117,14 @@ parseVersion versionString =
 myEnv :: Env MyEnvironment
 myEnv = MyEnvironment
     <$> (readEnv "APP_STAGE" <|> pure Production)
-    <*> maybeEnv Just "APP_ID"
+    <*> optional Just "APP_ID"
     <*> env parseVersion "APP_VERSION"
 
 main :: IO ()
 main = runEnv myEnv >>= print
 ```
 
-Running this, we get (formatting mine):
+Running this as an executable `my_app`, we get the following output (formatting mine):
 
 ```haskell
 $ APP_STAGE=Testing APP_VERSION=v1.1.1 APP_ID=its_me_mario my_app
@@ -138,3 +151,10 @@ Just (
     }
   )
 ```
+
+What do you use for handling environment variables in Haskell? Do you use environment variables
+for different purposes that you'd like to see covered? What else would you like to see
+  covered in future Haskell Bits? Let me know in the comments!
+
+Ben
+
