@@ -82,7 +82,7 @@ This is the simplest thing that does the job well, though, so we'll run with it.
 For my example application, I want to be able to pull configuration information
 from a set of environment variables.
 
-We can use our mini-library of functions to do this:
+We can use our mini-library to do this:
 
 ```haskell
 data Stage 
