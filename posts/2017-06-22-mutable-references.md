@@ -17,7 +17,7 @@ each section for further reading.
 <img src="/images/HaskellRefs/ioref.png" height="400" style="display:block;margin:auto"></img>
 
 First up is `IORef`, the simplest of all containers. It is a sectioned off bit
-of mutable memory for any number of threads to get/read/modify willy-nilly.
+of mutable memory for any number of threads to read/modify willy-nilly.
 
 We can read this diagram as follows:
 
