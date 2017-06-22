@@ -8,6 +8,10 @@ There are quite a few ways to store mutable data in Haskell. Let's talk about so
 them! Specifically, we will focus on mutable containers that store a single
 value that can be modified by one or more threads at any given time.
 
+I'm not going to go into a ton of detail here - I just want to give an overview.
+I have provided links to the documentation and other resources at the end of
+each section for further reading.
+
 ## IORef
 
 <img src="/images/HaskellRefs/ioref.png" height="400" style="display:block;margin:auto"></img>
