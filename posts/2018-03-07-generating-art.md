@@ -426,7 +426,7 @@ It's not too hard to hook up `random-fu` to this little framework, which extends
 
 #### Acknowledgements
 
-A number of people have been super helpful and inspirational to me. To plug a few other generative artists doing cool stuff, check out the work of [Tyler Hobbs](http://www.tylerlhobbs.com/), [Anders Hoff (inconvergent)](https://inconvergent.net), and [Manoloide](http://manoloide.com/). Visit [r/generative](https://reddit.com/r/generative) for even more good stuff.
+A number of people have been super helpful and inspirational to me. To plug a few other generative artists doing cool stuff, check out the work of [Tyler Hobbs](http://www.tylerlhobbs.com/), [Anders Hoff (inconvergent)](http://inconvergent.net), and [Manoloide](http://manoloide.com/). Visit [r/generative](https://reddit.com/r/generative) for even more good stuff.
 
 Also a huge thanks to [the Gtk2Hs team](https://hackage.haskell.org/package/cairo) for the cairo bindings, wihout which all of this would not be possible.
 
