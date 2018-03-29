@@ -1,5 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+import           Control.Monad.IO.Class
 import           Data.Monoid
 import           Hakyll
 
@@ -34,10 +35,25 @@ main = hakyll $ do
     match "art/*" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/art.html"    postCtx
+            >>= loadAndApplyTemplate "templates/art-item.html" artCtx
             >>= saveSnapshot "content"
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= loadAndApplyTemplate "templates/default.html"  artCtx
             >>= relativizeUrls
+
+    create ["art.html"] $ do
+        route idRoute
+        compile $ do
+            artworks <- recentFirst =<< loadAll "art/*"
+            let
+              artCtx' =
+                listField "artworks" artCtx (return artworks) `mappend`
+                constField "title" "Artwork"                   `mappend`
+                defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/art.html" artCtx'
+                >>= loadAndApplyTemplate "templates/default.html" artCtx'
+                >>= relativizeUrls
 
     match "posts/*" $ do
         route $ setExtension "html"
@@ -85,6 +101,12 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
+artCtx :: Context String
+artCtx =
+    defaultContext `mappend`
+    dateField "date" "%B %e, %Y" `mappend`
+    pathField "image"
 
 createAtomFeed :: Rules ()
 createAtomFeed = create [ "atom.xml" ] $ do
