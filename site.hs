@@ -47,7 +47,7 @@ main = hakyll $ do
             let
               artCtx' =
                 listField "artworks" artCtx (return artworks) `mappend`
-                constField "title" "Artwork"                   `mappend`
+                constField "title" "Selected Works"           `mappend`
                 defaultContext
 
             makeItem ""

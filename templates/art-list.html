@@ -5,7 +5,17 @@
          <a href="$url$">
             <img class="flex" src="$image$">
             </img>
-            <p class="art-blurb">$title$ // $size$ // $year$ </p>
+            <p class="art-blurb">$title$ // $size$ // $year$
+              $if(sold)$
+                &nbsp;(Sold)
+              $endif$
+              <br />
+              <p class="art-blurb">$if(price)$
+              <span>
+              <a href="$buy_link$">$price$ - buy</a>
+              $endif$
+            </span>
+            </p>
          </a>
        </div>
       $endfor$
