@@ -1,7 +1,7 @@
 ---
 title: Three Women
 image: /images/art/three_women.png
-size: 16"x20"
+size: 11"x14"
 year: 2018
 ---
 
