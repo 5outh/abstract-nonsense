@@ -14,12 +14,24 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "videos/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "videos/**/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "pdfs/*" $ do
         route idRoute
         compile copyFileCompiler
 
     match "css/*" $ do
         route   idRoute
+        compile copyFileCompiler
+
+    match "js/*" $ do
+        route idRoute
         compile copyFileCompiler
 
     match "js/**/*" $ do
