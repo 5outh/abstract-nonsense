@@ -3,6 +3,7 @@ title: Three Women
 image: /images/art/three_women.png
 size: 11"x14"
 year: 2018
+sold: true
 ---
 
 <img class="round-image"
