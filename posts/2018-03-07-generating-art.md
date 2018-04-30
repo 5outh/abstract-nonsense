@@ -235,12 +235,12 @@ Well, first we need the idea of a `Point` in 2d space. Fortunately the `linear` 
 
 #### Quadrilaterals
 
-For this program, a `Quad` (quadrilateral) is well-represented by four points in space. I've arbitrarily chosen them to be in clockwise order, starting from the top left:
+For this program, a `Quad` (quadrilateral) is well-represented by four points in space. I've arbitrarily chosen them to be in counter-clockwise order, starting from the top left:
 
 ```haskell
---  a---b
+--  a---d
 --  |   |
---  c---d
+--  b---c
 data Quad = Quad
   { quadA :: V2 Double
   , quadB :: V2 Double
@@ -252,7 +252,7 @@ data Quad = Quad
 \* Note: I totally draw little ascii drawings like this in my comments all the time. It helps!
 
 A simple way to think about points on a grid is a `V2 Int` - that is, a vector with integral coordinates. Let's go that route for now, and generate
-some squares `Quad`s!
+some `Quad`s!
 
 ```haskell
 fromIntegralVector :: V2 Int -> V2 Double
