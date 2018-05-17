@@ -178,6 +178,4 @@ main :: IO ()
 main = newPureMT >>= print . evalRand dieRoll 
 ```
 
-Is there anything else you'd like to know about randomness in Haskell? Let me know in the comments!
-
 Ben

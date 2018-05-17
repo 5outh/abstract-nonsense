@@ -434,4 +434,8 @@ Also a huge thanks to [the Gtk2Hs team](https://hackage.haskell.org/package/cair
 
 I've just recently set up a bigcartel shop here, where you can view and purchase my work: [bigcartel link](https://bendotk.bigcartel.com). You can also follow me on [instagram](https://instagram.com/bendotk) or [twitter](https://instagram.com/bendotk), where I've been posting frequent updates.
 
-I hope this post provided a glimpse into my general artistic process. As always, I'm happy to answer any questions in the comments or on twitter!
+I hope this post provided a glimpse into my general artistic process. as
+always, feel free to <a href="/contact.html">contact me</a> if you have any
+questions or comments.
+
+Ben

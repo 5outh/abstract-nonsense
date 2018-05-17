@@ -217,8 +217,4 @@ I think that's quite nice and readable.
 I'm going to postpone talking about reading environment variables because I want to dedicate a whole _Haskell Bit_ to
 reading configuration safely, and this one is getting somewhat long.
 
-Is there a topic
-you would like to see covered in the future? Do you start your projects in a wildly
-different way? Let me know in the comments!
-
 Ben

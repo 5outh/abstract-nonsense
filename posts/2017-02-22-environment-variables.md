@@ -152,9 +152,4 @@ Just (
   )
 ```
 
-What do you use for handling environment variables in Haskell? Do you use environment variables
-for different purposes that you'd like to see covered? What else would you like to see
-  covered in future Haskell Bits? Let me know in the comments!
-
 Ben
-
