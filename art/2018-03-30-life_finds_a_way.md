@@ -7,4 +7,4 @@ year: 2018
 
 <img class="round-image"
     src="/images/art/life_finds_a_way.png"
-    style="height:1000px; border-radius:4px;margin:5px"/>
+    style="height:900px; border-radius:4px;margin:5px"/>

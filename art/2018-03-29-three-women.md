@@ -8,5 +8,5 @@ sold: true
 
 <img class="round-image"
     src="/images/art/three_women.png"
-    style="height:1000px; border-radius:4px;margin:5px"/>
+    style="height:900px; border-radius:4px;margin:5px"/>
 
