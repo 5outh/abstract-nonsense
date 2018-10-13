@@ -130,7 +130,7 @@ Sounds awesome.
 
 Unfortunately, I had iterated on that particular sketch a bit after posting. The
 original image I had posted was not large enough to print, and I had no way of
-pairing up the seed used to generate the code with the code that actually
+pairing up the seed used to generate the image with the code that actually
 generated it. I was able to recover it mostly, but the colors were not quite the
 same as the image I posted on twitter, and it took a ton of effort to even
 partially recover it. This really bothered me. Ultimately, we still swapped
