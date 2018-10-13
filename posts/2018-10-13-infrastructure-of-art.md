@@ -240,7 +240,7 @@ the surface that is currently being drawn. I can litter my program with
 calls to `renderProgress` - often in loops - to render a given frame with the
 appropriate index. This stores images in the folder
 `./images/<name>/progress/<seed>/<index>.png`, where `<index>` is a frame index,
-padded with 8s to 8 digits. For example:
+padded with 0s to 8 digits. For example:
 
 ```
 $ ls -l images/example_sketch/progress/1539455256091/
